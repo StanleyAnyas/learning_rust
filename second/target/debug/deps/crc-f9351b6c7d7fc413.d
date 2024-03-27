@@ -1,0 +1,12 @@
+C:\Users\Omistaja\rust_projects\second\target\debug\deps\libcrc-f9351b6c7d7fc413.rmeta: C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\lib.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc128.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc16.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc32.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc64.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc8.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\table.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\util.rs
+
+C:\Users\Omistaja\rust_projects\second\target\debug\deps\crc-f9351b6c7d7fc413.d: C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\lib.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc128.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc16.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc32.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc64.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc8.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\table.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\util.rs
+
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\lib.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc128.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc16.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc32.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc64.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\crc8.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\table.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc-3.0.1\src\util.rs:

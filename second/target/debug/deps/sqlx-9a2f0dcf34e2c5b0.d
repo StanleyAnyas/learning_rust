@@ -1,0 +1,11 @@
+C:\Users\Omistaja\rust_projects\second\target\debug\deps\libsqlx-9a2f0dcf34e2c5b0.rmeta: C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\lib.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\any\mod.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\macros\mod.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\ty_match.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\lib.md C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\macros/test.md C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\any\install_drivers_note.md
+
+C:\Users\Omistaja\rust_projects\second\target\debug\deps\sqlx-9a2f0dcf34e2c5b0.d: C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\lib.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\any\mod.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\macros\mod.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\ty_match.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\lib.md C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\macros/test.md C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\any\install_drivers_note.md
+
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\lib.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\any\mod.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\macros\mod.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\ty_match.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\lib.md:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\macros/test.md:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.3\src\any\install_drivers_note.md:

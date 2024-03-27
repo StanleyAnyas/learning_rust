@@ -1,0 +1,11 @@
+C:\Users\Omistaja\rust_projects\second\target\debug\deps\libconst_oid-bd6c684afff95a0d.rmeta: C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\lib.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\checked.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\arcs.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\encoder.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\error.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\parser.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\../README.md
+
+C:\Users\Omistaja\rust_projects\second\target\debug\deps\const_oid-bd6c684afff95a0d.d: C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\lib.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\checked.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\arcs.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\encoder.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\error.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\parser.rs C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\../README.md
+
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\lib.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\checked.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\arcs.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\encoder.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\error.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\parser.rs:
+C:\Users\Omistaja\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\../README.md:
