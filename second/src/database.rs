@@ -4,6 +4,7 @@ use sqlx::mysql::MySqlPoolOptions;
 // use rust_decimal::Decimal;
 // use std::str::FromStr;
 use sqlx::Row;
+use std::env;
 
 #[tokio::main]
 async fn main() {
@@ -33,14 +34,16 @@ struct Payment {
     account_name: String,
     payment_date: String,
 }
-
+fn load_env() {
+    dotenv::dotenv().ok();
+}
 async fn connection() -> sqlx::Pool<sqlx::MySql> {
-    let url = "mysql://Stanley:Okwukweamaka21@127.0.0.1:3307/myfristdb";
-    MySqlPoolOptions::new().connect(url).await.unwrap()
+    load_env();
+    let url = env::var("DATABASE_URL").expect("DATABASE_URL not set in .env file");
+    MySqlPoolOptions::new().connect(url.as_str()).await.unwrap()
 }
 
 async fn connect_to_database() -> std::result::Result<(), sqlx::Error> {
-    // let url = "mysql://Stanley:Okwukweamaka21@127.0.0.1:3307/myfristdb";
     let pool = connection().await;
 
     // QueryAs<'_, DB, O, <DB as HasArguments>::Arguments>
